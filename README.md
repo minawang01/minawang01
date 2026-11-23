@@ -17,7 +17,7 @@ I'm a Forward Deployed Engineer at Palantir, where I take AI systems into health
 | [Go Dutch](https://github.com/minawang01/go-dutch-ios) | Bill-splitting app; Gemini turns messy, multilingual receipts into structured line items | React Native, Firebase, MongoDB, Gemini |
 | [Kering returns](https://github.com/minawang01/kering) | Intake API for a returns damage-detection pipeline (Columbia × Kering) | FastAPI, Azure SQL |
 
-🔒 These repos are private. [Email me](mailto:wangjennifer2001@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/mina-swang) for access.
+🔒 These repos are private. [Email me](mailto:mina.shijie@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/mina-swang) for access.
 
 **Background:** B.A. Computer Science and M.S. Management Science & Engineering, Columbia. Previously at Meta (Instagram) and Amazon (ML), and earlier in journalism and art history.
 
