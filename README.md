@@ -1,18 +1,18 @@
 ### hi, i'm mina
 
-I'm a Forward Deployed Engineer at Palantir, where I take AI systems into healthcare, manufacturing, finance and defense.
+i'm a forward deployed engineer at palantir, where i take ai systems into healthcare, manufacturing, finance and defense.
 
 **selected work**
 
 | project | description | stack |
 | --- | --- | --- |
-| **Imperative Fund** 🔒 | Robust multi-objective integer program allocating a $130M housing fund across ~84,000 Mexican communities to maximize poverty alleviation and return | Python, Gurobi, statsmodels |
-| **Loci** 🔒 | Self-hosted SMS-to-notes app with goals, a `#busy` calendar and a nightly Claude-generated plan; multi-user via invites and per-user Google Drive | Node.js, Express, SQLite, Twilio, Claude API |
-| **Palette** 🔒 | iOS wardrobe app: photograph outfits and a vision model extracts each garment and its color | React Native, Vercel, Postgres, Claude API |
-| [Go Dutch](https://github.com/minawang01/go-dutch-ios) | Bill-splitting app; Gemini turns messy, multilingual receipts into structured line items | React Native, Firebase, MongoDB, Gemini |
+| **imperative fund** 🔒 | robust multi-objective integer program allocating a $130m housing fund across ~84,000 mexican communities to maximize poverty alleviation and return | python, gurobi, statsmodels |
+| **loci** 🔒 | self-hosted sms-to-notes app with goals, a `#busy` calendar and a nightly claude-generated plan; multi-user via invites and per-user google drive | node.js, express, sqlite, twilio, claude api |
+| **palette** 🔒 | ios wardrobe app: photograph outfits and a vision model extracts each garment and its color | react native, vercel, postgres, claude api |
+| [go dutch](https://github.com/minawang01/go-dutch-ios) | bill-splitting app; gemini turns messy, multilingual receipts into structured line items | react native, firebase, mongodb, gemini |
 
-🔒 These repos are private. [Email me](mailto:mina.shijie@gmail.com) for access.
+🔒 these repos are private. [email me](mailto:mina.shijie@gmail.com) for access.
 
-**background:** B.A. Computer Science and M.S. Management Science & Engineering, Columbia. Previously at Beli, Meta (Instagram), and Amazon (ML). Also interested in philosophy and history.
+**background:** b.a. computer science and m.s. management science & engineering, columbia. previously at beli, meta (instagram), and amazon (ml). also interested in philosophy and history.
 
-[minawang.com](https://www.minawang.com) · [Substack](https://substack.com/@minashijiewang) · [LinkedIn](https://linkedin.com/in/mina-swang)
+[minawang.com](https://www.minawang.com) · [substack](https://substack.com/@minashijiewang) · [linkedin](https://linkedin.com/in/mina-swang)
